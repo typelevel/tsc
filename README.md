@@ -1,6 +1,6 @@
 # Typelevel Governance
 
-This repository houses the documents and discussions of the Typelevel Technical Steering Committee. The committee is responsible for:
+This repository houses the documents and discussions of the [Typelevel Technical Steering Committee][tsc-people]. The committee is responsible for:
 
 * Advising the Typlevel board on overall technical priorities for the Foundation, especially the designation and stewardship of Organization Projects; and
 * Curating the portfolio of Typelevel Affiliate Projects, including soliciting and reviewing applications.
@@ -55,3 +55,5 @@ Please read [our guide for how to set it up](/resources/tuple.md).
 ## License
 
 All governance docs are licensed under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](LICENSE).
+
+[tsc-people]: https://typelevel.org/foundation/people.html#technical-steering-committee
